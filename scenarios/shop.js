@@ -1,0 +1,18 @@
+module.exports = {
+  label: "CC Shop",
+  url: "https://www.cashconverters.com.au/shop",
+  referenceUrl: "",
+  readyEvent: "",
+  readySelector: "",
+  delay: 0,
+  hideSelectors: [],
+  removeSelectors: [],
+  hoverSelector: "",
+  clickSelector: "",
+  postInteractionWait: 0,
+  selectors: [],
+  selectorExpansion: true,
+  expect: 0,
+  misMatchThreshold: 0.1,
+  requireSameDimensions: true,
+};
