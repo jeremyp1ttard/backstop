@@ -28,6 +28,8 @@ follow instructions in the [docs here] to add or modify any of the configs. JS o
 - GUI 🤞
 - expand upon tests
 - automatically include scenarios to their config
+- build a node lighthouse scorecheck tool that runs simultaneously to this
+- consider adding to deploy workflow in TC
 
 
 Please make sure to update tests as appropriate.
