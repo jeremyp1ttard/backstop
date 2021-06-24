@@ -4,8 +4,11 @@
   "description": "",
   "main": "backstop.js",
   "scripts": {
-    "start": "backstop test --config=\"backstop.config.js\"", 
-    "approve": "backstop approve --config=\"backstop.config.js\"", 
+    "start": "backstop test --config=\"backstop.prod.config.js\"", 
+    "test-prod": "backstop test --config=\"backstop.prod.config.js\"", 
+    "test-inte": "backstop test --config=\"backstop.inte.config.js\"", 
+    "approve-prod": "backstop approve --config=\"backstop.prod.config.js\"", 
+    "approve-inte": "backstop approve --config=\"backstop.inte.config.js\"", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

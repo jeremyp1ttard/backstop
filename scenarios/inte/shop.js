@@ -1,0 +1,18 @@
+module.exports = {
+  label: "Inte Blank Search - All products",
+  url: "https://inte.cashconverters.com.au/search-results?Sort=default&page=1&query=&f%5Bcategory%5D%5B0%5D=all&f%5Blocations%5D%5B0%5D=all",
+  referenceUrl: "",
+  readyEvent: "",
+  readySelector: "",
+  delay: 0,
+  hideSelectors: [],
+  removeSelectors: [],
+  hoverSelector: "",
+  clickSelector: "",
+  postInteractionWait: 0,
+  selectors: [],
+  selectorExpansion: true,
+  expect: 0,
+  misMatchThreshold: 0.1,
+  requireSameDimensions: true,
+};
