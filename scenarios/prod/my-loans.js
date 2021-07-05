@@ -1,6 +1,6 @@
 module.exports = {
   label: "Prod my loans",
-  url: "https://www.cashconverters.com.au/loans/my-loans",
+  url: "https://www.cashconverters.com.au/loans/personal-loans/my-loans",
   referenceUrl: "",
   readyEvent: "",
   readySelector: "",

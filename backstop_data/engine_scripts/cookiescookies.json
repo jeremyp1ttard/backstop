@@ -1,0 +1,205 @@
+[
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1055018224.1623904724",
+    "domain": ".episerver.net",
+    "path": "/",
+    "expires": 1631680723,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "s_fid",
+    "value": "659DF1A3EBA2D609-2FC13567BEA07985",
+    "domain": ".dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1782282527,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1623904724330.2060577353",
+    "domain": ".episerver.net",
+    "path": "/",
+    "expires": 1632292130,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cd_user_id",
+    "value": "17a1843b183830-00d23635e0346a-4373266-1fa400-17a1843b1846ad",
+    "domain": ".dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1655440727,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "s_nr",
+    "value": "1624330139586-Repeat",
+    "domain": ".dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1626922139,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": ".ASPXANONYMOUS",
+    "value": "vMwDmDi03keiio3rmJPjJmfqy94x0mfeJjLg1uNoEdid_g9ShVHAe3bL27RNJ_-ZddYRdzVkUaCS8d3R8CWdTP6TzHRSNxRLKgWT0V_bpn7Yol7SAj-Hyk74gtiBoBYP75eVL_uVIrN45XNEYwO2BQ2",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1630513437.341821,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "ai_user",
+    "value": "vz/KV|2021-06-24T05:44:17.508Z",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656049457,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "mdLogger",
+    "value": "false",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656052128,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "kampyle_userid",
+    "value": "c477-6ff2-305a-85be-4149-a624-6e28-838e",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656049461,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "kampyleUserSession",
+    "value": "1624513461877",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656049461,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "kampyleUserSessionsCount",
+    "value": "1",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656049461,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__adroll_fpc",
+    "value": "4c76b0972f0711b61522fa29c7379953-1624513463339",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656073729,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mbox",
+    "value": "PC#3572102598914290940780f42ae599cd.36_0#1687149525|session#e645da5dfd6f4aae84a9054ca69bfcef#1624517988",
+    "domain": ".episerver.net",
+    "path": "/",
+    "expires": 1687149525,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "kampyleSessionPageCounter",
+    "value": "9",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656052128,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__ar_v4",
+    "value": "BL5OBJEHUFALLCWKFVSVM2%3A20210624%3A8%7CAVDMMPXRDRAURAWF7TSBTI%3A20210624%3A8%7CXARNQMBEUJERFPAVXQHF5H%3A20210624%3A8",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1656052129,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "5qztpwdvs0cjynsrkhugjub3",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "1c29cc44c1a55b0a25d18663d79d2549ce88a6d0b7d2105332aaf3a011aee48c",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "ARRAffinitySameSite",
+    "value": "1c29cc44c1a55b0a25d18663d79d2549ce88a6d0b7d2105332aaf3a011aee48c",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "CsrfCookieToken",
+    "value": "H_jVVbmC02hjxut4z4094HLjoorgMh4HGcgs7eaYK917LZrofMM1-HnqgW304Su47J44Hh-Q1PDuCl6-wGJhWUbBqyM6pDEJW-pBeSZeYvw1",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "CsrfJavascriptToken",
+    "value": "VGiKPT70J4SeoyhD3O37eovvXyk67As4fNprdjHAnZHGmwLZkmiHekX5_L5klvh3Z6EDpgW92Ia0_iDxrtnaNBtrUG8ecRZeAh4FFgFLRXs1",
+    "domain": ".cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ai_session",
+    "value": "PrE9i|1625463960908|1625465064265.6",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1625466864,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "CookieInformationConsent",
+    "value": "%7B%22website_uuid%22%3A%2240339e4c-6f18-4f98-ad4e-16cd588495cc%22%2C%22timestamp%22%3A%222021-07-05T06%3A04%3A24.645Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Fcash01aapa0u9vinte.dxcloud.episerver.net%2F%22%2C%22consent_website%22%3A%22cashconverters.co.uk%22%2C%22consent_domain%22%3A%22cash01aapa0u9vinte.dxcloud.episerver.net%22%2C%22user_uid%22%3A%22afd2b008-8f41-432f-ac39-ea775dc9ed7a%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%2C%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22consents_denied%22%3A%5B%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F91.0.4472.124%20Safari%2F537.36%22%7D",
+    "domain": "cash01aapa0u9vinte.dxcloud.episerver.net",
+    "path": "/",
+    "expires": 1657001064,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

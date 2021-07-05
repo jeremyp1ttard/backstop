@@ -15,6 +15,5 @@ module.exports = {
     expect: 0,
     misMatchThreshold: 0.1,
     requireSameDimensions: true,
-    cookiePath: "backstop_data/engine_scripts/cookiescookies.json"
   };
   
