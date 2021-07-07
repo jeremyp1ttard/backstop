@@ -1,6 +1,6 @@
 module.exports = {
   label: "Inte Cash Loans",
-  url: "https://inte.cashconverters.com.au/cash-loans",
+  url: "https://inte.cashconverters.com.au/payment-portals",
   referenceUrl: "",
   readyEvent: "",
   readySelector: "",

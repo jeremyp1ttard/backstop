@@ -1,5 +1,5 @@
 module.exports = {
-  label: "Prod homepage",
+  label: "Inte homepage",
   url: "https://inte.cashconverters.com.au",
   referenceUrl: "",
   readyEvent: "",
