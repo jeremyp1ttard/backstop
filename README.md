@@ -38,7 +38,6 @@ Please make sure to update tests as appropriate.
 
 [docs here]: https://github.com/garris/BackstopJS
 
-look a table 
-| table heading 1 | table heading 2||---
---------------|---
--------------||table content 1 | table content 2 |
+| heading | another heading| yet another heading|
+|---------|----------------|--------------------|
+|hnfuisgw|bnruiowg|bnhwfognw|
